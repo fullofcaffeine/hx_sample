@@ -1,0 +1,6 @@
+-cp .
+-lib datetime
+-D js-es5
+-main Test
+-dce full
+-js test.js
